@@ -6,9 +6,9 @@ use Goose\Client as GooseClient;
 
 use GuzzleHttp\Client as GuzzleClient;
 
-use andreskrey\Readability\Readability;
-use andreskrey\Readability\Configuration;
-use andreskrey\Readability\ParseException;
+use fivefilters\Readability\Readability;
+use fivefilters\Readability\Configuration;
+use fivefilters\Readability\ParseException;
 
 use PHPHtmlParser\Dom;
 use PHPHtmlParser\Options;
